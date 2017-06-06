@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Theme(black)-->
+    <!--<color name="colorPrimary">#262626</color>-->
+    <!--<color name="colorPrimaryDark">#000000</color>-->
+    <!--<color name="colorAccent">#fbcd44</color>-->
+    <!--<color name="recyclerview_background">#f0f0f0</color>-->
+
+    <!--Theme blue gray-->
+    <color name="colorPrimaryLight">#cfd8dc</color>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorAccent">#ffd740</color>
+    <!--<color name="recyclerview_background">#f0f0f0</color>-->
+</resources>
